@@ -11,18 +11,18 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "~14.0.0",
-    "@angular/common": "~14.0.0",
-    "@angular/compiler": "~14.0.0",
-    "@angular/core": "~14.0.0",
-    "@angular/forms": "~14.0.0",
-    "@angular/platform-browser": "~14.0.0",
-    "@angular/platform-browser-dynamic": "~14.0.0",
-    "@angular/router": "~14.0.0",
-    "@syncfusion/ej2-angular-buttons": "^19.1.63",
+    "@angular/animations": "~14.1.0",
+    "@angular/common": "~14.1.0",
+    "@angular/compiler": "~14.1.0",
+    "@angular/core": "~14.1.0",
+    "@angular/forms": "~14.1.0",
+    "@angular/platform-browser": "~14.1.0",
+    "@angular/platform-browser-dynamic": "~14.1.0",
+    "@angular/router": "~14.1.0",
+    "@syncfusion/ej2-angular-buttons": "*",
     "@syncfusion/ej2-angular-documenteditor": "*",
-    "@syncfusion/ej2-angular-navigations": "^19.1.63",
-    "@syncfusion/ej2-angular-splitbuttons": "^19.1.63",
+    "@syncfusion/ej2-angular-navigations": "*",
+    "@syncfusion/ej2-angular-splitbuttons": "*",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
@@ -30,9 +30,9 @@
     
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~14.0.1",
-    "@angular/cli": "~14.0.1",
-    "@angular/compiler-cli": "~14.0.0",
+    "@angular-devkit/build-angular": "~14.1.3",
+    "@angular/cli": "~14.1.3",
+    "@angular/compiler-cli": "~14.1.0",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
@@ -46,6 +46,6 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~4.4.3"
+    "typescript": "~4.7.2"
   }
 }
