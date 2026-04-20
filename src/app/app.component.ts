@@ -4,6 +4,7 @@ import { TitleBar } from './title-bar';
 import { isNullOrUndefined } from '@syncfusion/ej2-base';
 
 @Component({
+  standalone: false,
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
