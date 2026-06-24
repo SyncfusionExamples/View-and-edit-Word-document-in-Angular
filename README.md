@@ -1,16 +1,18 @@
-# View and Edit Word Document in Angular 
-This repository provides a working example of how to view and edit Word documents in a Angular application using the Syncfusion® Document Editor (a.k.a. Word Processor). It demonstrates seamless Word document (DOCX) editing and rendering directly in the browser, with no need for Microsoft Word or Office interop dependencies. 
+# View and Edit Word Document in Angular DOCX Editor (Document Editor)
+This repository provides a working example of how to view and edit Word documents in a Angular application using the Syncfusion® [Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). It demonstrates seamless Word document (DOCX) editing and rendering directly in the browser, with no need for Microsoft Word or Office interop dependencies. 
 
 
 ## Blog reference
-[View and Edit Word Documents in Angular Apps: Beginners’ Guide](https://www.syncfusion.com/blogs/post/view-and-edit-word-documents-in-angular.aspx)
+[View and Edit Word Documents in Angular Apps: Beginners’ Guide](https://www.syncfusion.com/blogs/post/view-and-edit-word-documents-in-angular.aspx?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples)
+
 # Resources 
 
-- **Product page:**  [Syncfusion® Angular Word Processor](https://www.syncfusion.com/angular-components/angular-docx-editor) 
+- **Product page:**   [Syncfusion® Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**  [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/angular/getting-started) 
+- **Documentation:**   [Syncfusion® Angular DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/angular/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**  [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/angular/demos/#/tailwind3/document-editor/default) 
+- **Online demo:**   [Syncfusion® Angular DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/angular/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
 
 # Support and feedback 
 
